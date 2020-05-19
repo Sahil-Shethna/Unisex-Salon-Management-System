@@ -675,7 +675,7 @@ The above picture shows user interface of salon&#39;s packages Screen
 
 ## **3. 1.5 Appointment**
 
-![](RackMultipart20200519-4-h7qzqn_html_42a557237b93824d.png)
+![](Project_images/appointment.png)
 
 The above picture shows user interface of appointment booking Screen
 
