@@ -44,7 +44,7 @@ Guided by
 
 ![](RackMultipart20200519-4-h7qzqn_html_7510cfa2b51df94b.jpg)
 
-This is to certify that **Sahil Shethna [201606100110099] , Bhoomi Joshi [201606100110113]** has submitted project entitled **&quot;**** Unisex Salon Management **** System&quot;** as the partial fulfillment for the award of the degree of Bachelor of Science in Information Technology for 5 Years Integrated M.Sc.(IT) in 2018 – 2019.
+This is to certify that **Sahil Shethna [201606100110099] , Bhoomi Joshi [201606100110113]** has submitted project entitled **Unisex Salon Management System** as the partial fulfillment for the award of the degree of Bachelor of Science in Information Technology for 5 Years Integrated M.Sc.(IT) in 2018 – 2019.
 
 **Date: 03 / 05 / 2019**
 
