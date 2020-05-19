@@ -675,37 +675,37 @@ The above picture shows user interface of salon&#39;s packages Screen
 
 ## **3. 1.5 Appointment**
 
-![](Project_images/appointment.png)
+![](Project_images/.png)
 
 The above picture shows user interface of appointment booking Screen
 
 ## **3. 1.6 Gallery**
 
-![](RackMultipart20200519-4-h7qzqn_html_7c0fd18fe8f17400.png)
+![](Project_images/.png)
 
 The above picture shows user interface of salon&#39;s gallery Screen
 
 ## **3. 1.5 Shop**
 
-![](RackMultipart20200519-4-h7qzqn_html_fac95f08f7b5b7fa.png)
+![](Project_images/.png)
 
 The above picture shows user interface of view product Screen
 
 ## **3. 1.6 Edit Profile**
 
-![](RackMultipart20200519-4-h7qzqn_html_833daa7af7d961b4.png)
+![](Project_images/-4-h7qzqn_html_833daa7af7d961b4.png)
 
 The above picture shows user interface of Customer Account Details screen.
 
 ## **3. 1.7 Change Password**
 
-![](RackMultipart20200519-4-h7qzqn_html_35c037d82e43ee4.png)
+![](Project_images/-4-h7qzqn_html_35c037d82e43ee4.png)
 
 The above picture shows user interface of customer change password Screen
 
 ## **3. 1.8 Cart**
 
-![](RackMultipart20200519-4-h7qzqn_html_8d341cc143e6d26d.png)
+![](Project_images/-4-h7qzqn_html_8d341cc143e6d26d.png)
 
 The above picture shows user interface of Cart screen.
 
@@ -896,49 +896,49 @@ The above picture shows user interface of Admin Dashboard Screen
 
 **4.2.1 login**
 
-![](RackMultipart20200519-4-h7qzqn_html_26577f0c2bbb0dd1.png)
+![](Project_images/login.png)
 
 The above picture shows user interface of login validation Screen
 
 **4.2.2**  **Invalid OTP**
 
-![](RackMultipart20200519-4-h7qzqn_html_98896232f1ce06f6.png)
+![](Project_images/invalid_otp.png)
 
 The above picture shows user interface of invalid OTP Screen
 
 **4.2.3**  **Email id already exist**
 
-![](RackMultipart20200519-4-h7qzqn_html_77cd7f7a90267320.png)
+![](Project_images/email_already_exist.png)
 
 The above picture shows user interface of email id already exist Screen
 
 **4.2.4**  **Send OTP**
 
-![](RackMultipart20200519-4-h7qzqn_html_de93a8f7c1cb96c5.png)
+![](Project_images/otp.png)
 
 The above picture shows user interface of send OTP Screen
 
 **4.2.5**  **Password not match**
 
-![](RackMultipart20200519-4-h7qzqn_html_451b81316b8db513.png)
+![](Project_images/password_not_match.png)
 
 The above picture shows user interface of password not match Screen
 
 **4.2.6**  **Password pattern**
 
-![](RackMultipart20200519-4-h7qzqn_html_fb03dd9d7e31eb7d.png)
+![](Project_images/password_pattern.png)
 
 The above picture shows user interface of password pattern Screen
 
 **4.2.7**  **OTP verification**
 
-![](RackMultipart20200519-4-h7qzqn_html_eb9d65ed99b3f107.png)
+![](Project_images/otp_verification.png)
 
 The above picture shows user interface of OTP verification Screen
 
 **4.2.8**  **If you direct go for appointment booking**
 
-![](RackMultipart20200519-4-h7qzqn_html_974335b4249be6d1.png)
+![](Project_images/appointment.png)
 
 The above picture shows user interface of If you direct go for appointment booking Screen
 
