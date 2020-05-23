@@ -421,17 +421,19 @@ During the use case , system will allow user to get exit at any time. Then the u
 
 ![](Project_images/Login.jpg)
 
-**2.8.2**  **Registration**
+**2.8.2 Registration**
 
 ![](Project_images/Registration.jpg)
 
-| **2.8****.3 Change Password Activity**
+ **2.8.3 Change Password Activity**
+ 
  ![](Project_images/Change_Password_Activity.jpg)
- | **2.8****.4 Forgot Password Activity**
- ![](Project_images/Forgot_Password_Activity.jpg) |
-| --- | --- |
+ 
+ **2.8.4 Forgot Password Activity**
+ 
+ ![](Project_images/Forgot_Password_Activity.jpg) 
 
-**2.8****.5 Activity Diagram for Appointment**
+**2.8.5 Activity Diagram for Appointment**
 
 ![](Project_images/Activity_Diagram_for_Appointment.jpg)
 
