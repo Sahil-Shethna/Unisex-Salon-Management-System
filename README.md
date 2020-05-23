@@ -413,51 +413,51 @@ During the use case , system will allow user to get exit at any time. Then the u
 
 ##
 
-![](Project_images/Use Case Diagram.jpg)
+![](Project_images/Use_Case_Diagram.jpg)
 
 **2.8 Activity Diagram**
 
 **2.8.1 Login**
 
-![](Project_images.jpg)
+![](Project_images/Login.jpg)
 
 **2.8.2**  **Registration**
 
-![](Project_images.jpg)
+![](Project_images/Registration.jpg)
 
 | **2.8****.3 Change Password Activity**
- ![](Project_images.jpg)
+ ![](Project_images/Change_Password_Activity.jpg)
  | **2.8****.4 Forgot Password Activity**
- ![](Project_images.jpg) |
+ ![](Project_images/Forgot_Password_Activity.jpg) |
 | --- | --- |
 
 **2.8****.5 Activity Diagram for Appointment**
 
-![](Project_images/Activity Diagram for Appointment.jpg)
+![](Project_images/Activity_Diagram_for_Appointment.jpg)
 
 **2.8.6 Activity Diagram for Manage Product**
 
-![](Project_images/Activity Diagram for Manage Product.jpg)
+![](Project_images/Activity_Diagram_for_Manage_Product.jpg)
 
 **2.8.7 Activity Diagram for Manage Package**
 
-![](Project_images/Activity Diagram for Manage Package.jpg)
+![](Project_images/Activity_Diagram_for_Manage_Package.jpg)
 
 **2.8.8 Activity Diagram for Manage Service**
 
-![](Project_images/Activity Diagram for Manage Service.jpg)
+![](Project_images/Activity_Diagram_for_Manage_Service.jpg)
 
 **2.8.9 Activity Diagram for Manage Employee**
 
-![](Project_images/Activity Diagram for Manage Employee.jpg)
+![](Project_images/Activity_Diagram_for_Manage_Employee.jpg)
 
 **2.8.10 Activity Diagram for Manage Order**
 
-![](Project_images/Activity Diagram for Manage Order.jpg)
+![](Project_images/Activity_Diagram_for_Manage_Order.jpg)
 
 **2.8.11 Activity Diagram for Feedback**
 
-![](Project_images/Activity Diagram for Feedback.jpg)
+![](Project_images/Activity_Diagram_for_Feedback.jpg)
 
 ##
 
