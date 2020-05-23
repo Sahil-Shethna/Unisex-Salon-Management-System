@@ -413,51 +413,51 @@ During the use case , system will allow user to get exit at any time. Then the u
 
 ##
 
-![](RackMultipart20200519-4-h7qzqn_html_23250a5b74248c10.jpg)
+![](Project_images/Use Case Diagram.jpg)
 
 **2.8 Activity Diagram**
 
 **2.8.1 Login**
 
-![](RackMultipart20200519-4-h7qzqn_html_4f19785c6ebe963d.jpg)
+![](Project_images.jpg)
 
 **2.8.2**  **Registration**
 
-![](RackMultipart20200519-4-h7qzqn_html_ca83ec2cd7b9d568.jpg)
+![](Project_images.jpg)
 
 | **2.8****.3 Change Password Activity**
- ![](RackMultipart20200519-4-h7qzqn_html_d2eafac25dba6667.jpg)
+ ![](Project_images.jpg)
  | **2.8****.4 Forgot Password Activity**
- ![](RackMultipart20200519-4-h7qzqn_html_4e2788ea43f4dcef.jpg) |
+ ![](Project_images.jpg) |
 | --- | --- |
 
 **2.8****.5 Activity Diagram for Appointment**
 
-![](RackMultipart20200519-4-h7qzqn_html_d1464b2b991e84ef.jpg)
+![](Project_images/Activity Diagram for Appointment.jpg)
 
 **2.8.6 Activity Diagram for Manage Product**
 
-![](RackMultipart20200519-4-h7qzqn_html_357233d8aecb9e4d.jpg)
+![](Project_images/Activity Diagram for Manage Product.jpg)
 
 **2.8.7 Activity Diagram for Manage Package**
 
-![](RackMultipart20200519-4-h7qzqn_html_ff9bd6b228370410.jpg)
+![](Project_images/Activity Diagram for Manage Package.jpg)
 
 **2.8.8 Activity Diagram for Manage Service**
 
-![](RackMultipart20200519-4-h7qzqn_html_f6e6da634ef48b4c.jpg)
+![](Project_images/Activity Diagram for Manage Service.jpg)
 
 **2.8.9 Activity Diagram for Manage Employee**
 
-![](RackMultipart20200519-4-h7qzqn_html_4d59eb3f6ae87253.jpg)
+![](Project_images/Activity Diagram for Manage Employee.jpg)
 
 **2.8.10 Activity Diagram for Manage Order**
 
-![](RackMultipart20200519-4-h7qzqn_html_d1bbd4cce5cce8a2.jpg)
+![](Project_images/Activity Diagram for Manage Order.jpg)
 
 **2.8.11 Activity Diagram for Feedback**
 
-![](RackMultipart20200519-4-h7qzqn_html_4474525bd5530fd2.jpg)
+![](Project_images/Activity Diagram for Feedback.jpg)
 
 ##
 
@@ -649,25 +649,25 @@ During the use case , system will allow user to get exit at any time. Then the u
 
 ## **3.1.1 Home page**
 
-![](RackMultipart20200519-4-h7qzqn_html_3f253d4773998785.png)
+![](Project_images/Home_page.png)
 
 The above picture shows user interface of customer home Screen.
 
 ## **3.1.2 About us**
 
-![](RackMultipart20200519-4-h7qzqn_html_1c6da2fa2e542d47.png)
+![](Project_images/About_us.png)
 
 The above picture shows user interface of about us Screen
 
 ## **3. 1.3 Service**
 
-![](RackMultipart20200519-4-h7qzqn_html_a70075c39b86d75f.png)
+![](Project_images/Service.png)
 
 The above picture shows user interface of salon&#39;s services Screen
 
 ## **3. 1.4 Package**
 
-![](RackMultipart20200519-4-h7qzqn_html_29af6c64106625e3.png)
+![](Project_images/Package.png)
 
 The above picture shows user interface of salon&#39;s packages Screen
 
@@ -675,69 +675,69 @@ The above picture shows user interface of salon&#39;s packages Screen
 
 ## **3. 1.5 Appointment**
 
-![](Project_images/.png)
+![](Project_images/take_Appointment.png)
 
 The above picture shows user interface of appointment booking Screen
 
 ## **3. 1.6 Gallery**
 
-![](Project_images/.png)
+![](Project_images/Gallery.png)
 
 The above picture shows user interface of salon&#39;s gallery Screen
 
 ## **3. 1.5 Shop**
 
-![](Project_images/.png)
+![](Project_images/Shop.png)
 
 The above picture shows user interface of view product Screen
 
 ## **3. 1.6 Edit Profile**
 
-![](Project_images/-4-h7qzqn_html_833daa7af7d961b4.png)
+![](Project_images/Edit_Profile.png)
 
 The above picture shows user interface of Customer Account Details screen.
 
 ## **3. 1.7 Change Password**
 
-![](Project_images/-4-h7qzqn_html_35c037d82e43ee4.png)
+![](Project_images/User_Change_Password.png)
 
 The above picture shows user interface of customer change password Screen
 
 ## **3. 1.8 Cart**
 
-![](Project_images/-4-h7qzqn_html_8d341cc143e6d26d.png)
+![](Project_images/Cart.png)
 
 The above picture shows user interface of Cart screen.
 
 ## **3. 1.8 My Order**
 
-![](RackMultipart20200519-4-h7qzqn_html_866b97d740c2ffa.png)
+![](Project_images/My_Order.png)
 
 The above picture shows user interface of all customer order Screen
 
 1.
 ## **1.9 Sign Up**
 
-![](RackMultipart20200519-4-h7qzqn_html_f323486411b3aabd.png)
+![](Project_images/Sign_up.png)
 
 The above picture shows user interface of login screen of Customer and admin.
 
 ## **3. 1.10 Sign in**
 
-![](RackMultipart20200519-4-h7qzqn_html_284294a250412d3d.png)
+![](Project_images/Sign_in.png)
 
 The above picture shows user interface of Customer Registration screen.
 
 ## **3. 1.11 Location**
 
-![](RackMultipart20200519-4-h7qzqn_html_8aa3f58a94564ef6.png)
+![](Project_images/Location.png)
 
 The above picture shows user interface of shop location on map Screen
 
     1.
 ## **Forget Password**
 
-![](RackMultipart20200519-4-h7qzqn_html_7273f6a49ff9a4b6.png)
+![](Project_images/Forget_Password.png)
 
 The above picture shows user interface of customer forget password Screen
 
@@ -745,85 +745,85 @@ The above picture shows user interface of customer forget password Screen
 
 ## **3.2.1 Employee Registration Form**
 
-![](RackMultipart20200519-4-h7qzqn_html_eadc5555d02ee6fc.png)
+![](Project_images/Employee_Registration_Form.png)
 
 The above picture shows user interface of Employee Registration Screen
 
 ## **3.2.1 Update Employee Details**
 
-![](RackMultipart20200519-4-h7qzqn_html_10917e5cee331a80.png)
+![](Project_images/Update_Employee_Details.png)
 
 The above picture shows user interface of update employee details Screen
 
 ## **3.2.3 Employee Details**
 
-![](RackMultipart20200519-4-h7qzqn_html_acc81a1daa2f7e2.png)
+![](Project_images/Employee_Details.png)
 
 The above picture shows user interface of employee details Screen
 
 ## **3.2.4 Admin Registration Form**
 
-![](RackMultipart20200519-4-h7qzqn_html_c1db27a6351d7e67.png)
+![](Project_images/Admin_Registration_Form.png)
 
 The above picture shows user interface of admin registration form Screen
 
 ## **3.2.5 Admin Details**
 
-![](RackMultipart20200519-4-h7qzqn_html_9e78efa57e8f690.png)
+![](Project_images/Admin_Details.png)
 
 The above picture shows user interface of admin details Screen
 
 ## **3.2.6 Add New Sub-Services**
 
-![](RackMultipart20200519-4-h7qzqn_html_35ab42c8d5ca19b7.png)
+![](Project_images/Add New Sub-Services.png)
 
 The above picture shows user interface of add new sub service Screen
 
 ## **3.2.7 Select Services/package for add**
 
-![](RackMultipart20200519-4-h7qzqn_html_5611e2907b19332f.png)
+![](Project_images/Select_Services-package_for_add.png)
 
 The above picture shows user interface of selection for add new service or package Screen
 
 **3.2.8 Add New package**
 
-![](RackMultipart20200519-4-h7qzqn_html_3a203ae31ef728ab.png)
+![](Project_images/Add_New_package.png)
 
 The above picture shows user interface of add new package Screen
 
 **3.2.9 View Services**
 
-![](RackMultipart20200519-4-h7qzqn_html_fc4dab7ff1a4731f.png)
+![](Project_images/View_Services.png)
 
 The above picture shows user interface of view service Screen
 
 **3.2.10 View Packages**
 
-![](RackMultipart20200519-4-h7qzqn_html_81a1ef24f8e2fb09.png)
+![](Project_images/View_Packages.png)
 
 The above picture shows user interface of view packages Screen
 
 **3.2.11 Add Product/Sub-Product**
 
-![](RackMultipart20200519-4-h7qzqn_html_ec9df0c9d93fbcd.png)
+![](Project_images/Add_Product-Sub-Product.png)
 
 # The above picture shows user interface of Add Product/Sub-Product Screen
 
 **3.2.12 View Sub-Product**
 
-![](RackMultipart20200519-4-h7qzqn_html_6eb18660e9477cc2.png)
+![](Project_images/View_Sub-Product.png)
 
 The above picture shows user interface of view sub product Screen
 
 **3.2.13 Change password**
 
-![](RackMultipart20200519-4-h7qzqn_html_3f86d82140394cb1.png)
+![](Project_images/Change_password.png)
 
 The above picture shows user interface of Admin change password Screen
 
 **3.2.14 Admin Dashboard**
 
-![](RackMultipart20200519-4-h7qzqn_html_7d55fe7f96c53514.png)
+![](Project_images/Admin_Dashboard.png)
 
 The above picture shows user interface of Admin Dashboard Screen
 
